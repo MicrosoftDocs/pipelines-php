@@ -1,5 +1,5 @@
 {
-    "name": "pipelines-php",
+    "name": "docs/pipelines-php",
     "description": "Sample PHP application that uses laravel",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
